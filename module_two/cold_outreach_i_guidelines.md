@@ -1,7 +1,7 @@
 # Documentation Guidelines for Cold Outreach I Deliverable:
 
 * Name of contact
-  * "The mentor (or alum) I contacted is ______"
+  * "The mentor (or alum) I contacted is Heidi Hoopes"
 
 * Date of contact
   * "01/29/2017"
